@@ -13,7 +13,7 @@
 	<property name="phone" column="phone"></property>
 	<property name="subject" column="subject"></property>
 	<property name="message" column="message"></property>
-	<property name="created" column="created"></property>
+	<property name="created" column="created"></property> 
 </class>
 </hibernate-mapping>
 	 	
