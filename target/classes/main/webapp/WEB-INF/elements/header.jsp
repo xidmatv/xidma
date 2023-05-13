@@ -29,7 +29,7 @@
 			<div class="span6 navbar-inverse main-nav">
 			    <ul class="nav nav-tabs hidden-phone" id="myTab">
 			        <li><a href="/xidmatv/">Accueil</a></li>
-			        <li><a href="#">Le Dahira</a></li>
+			        <li><a href="src/main/webapp/views/ledahira.jsp">Le Dahira</a></li>
 			        <li><a href="#">Le mouridisme</a></li>
 			        <li><a href="#">Vidéos</a></li>
 			        <li><a href="#">Photos</a></li>
